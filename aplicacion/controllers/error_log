@@ -1,0 +1,6 @@
+[12-Nov-2021 14:31:24 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/concejom/public_html/Clinica Carrion/aplicacion/controllers/autenticar.php on line 12
+[12-Nov-2021 14:31:24 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/concejom/public_html/Clinica Carrion/aplicacion/controllers/autenticar.php on line 23
+[12-Nov-2021 14:31:31 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/concejom/public_html/Clinica Carrion/aplicacion/controllers/autenticar.php on line 12
+[12-Nov-2021 14:31:31 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/concejom/public_html/Clinica Carrion/aplicacion/controllers/autenticar.php on line 23
+[12-Nov-2021 14:31:51 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/concejom/public_html/Clinica Carrion/aplicacion/controllers/autenticar.php on line 12
+[12-Nov-2021 14:31:51 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/concejom/public_html/Clinica Carrion/aplicacion/controllers/autenticar.php on line 23
